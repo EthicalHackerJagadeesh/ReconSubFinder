@@ -1,10 +1,3 @@
-Here is a **clean, professional, GitHub-ready `README.md`** for your tool.
-
-You can **copy–paste this directly** into a file named `README.md`.
-
----
-
-````markdown
 # ReconSubFinder 🔍
 
 **ReconSubFinder** is an advanced, resolver-aware **subdomain enumeration framework** designed to work reliably in **labs, VPNs, cloud shells, and real-world environments**.
@@ -223,5 +216,4 @@ If you find ReconSubFinder useful:
 
 Happy recon! 🔥
 
-```
 
